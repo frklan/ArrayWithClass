@@ -1,6 +1,6 @@
 ## Ett enkelt klass-test för Arduino
 
-Ger förljande output på Serial:
+Ger följande output på Serial:
 ```
 Skapar 5 foo-objekt med pekare:
 Initierar..
@@ -15,7 +15,6 @@ foo.init(30)
 Detta foo-objekt har adress: 0x3FFF0B8C
 foo.init(40)
 done
-
 Läser..
 x = 0
 x = 10
