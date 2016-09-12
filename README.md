@@ -1,7 +1,7 @@
 ## Ett enkelt klass-test för Arduino
 
 Ger förljande output på Serial:
-´´´
+```
 Skapar 5 foo-objekt med pekare:
 Initierar..
 Detta foo-objekt har adress: 0x3FFF0B6C
@@ -45,4 +45,4 @@ x = 300
 x = 400
 done.
 ---
-´´´
+```
